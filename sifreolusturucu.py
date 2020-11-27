@@ -19,10 +19,3 @@ password_level = int(input("Level : "))
 
 password = generate_password(password_length , password_level)
 print("\nYour Password is: {}".format(password))
-
-
-
-
-
-
-
